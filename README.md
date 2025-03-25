@@ -12,9 +12,9 @@ This project demonstrates a scalable data pipeline for a ride-sharing applicatio
 
 - **ETL Pipeline:** Extracts, transforms, and loads ride data into a "ride fact" table.
 - **Simulated Revenue:** Adds a simulated revenue column (between \$10 and \$25) for analysis.
-- **Metadata Management:** Uses PySpark partitioning and caching to efficiently manage and query large datasets.
-- **Interactive Dashboard:** Visualizes daily ride trends, rides by dispatching base, and more.
+- **Metadata Management:** Uses PySpark partitioning and caching to efficiently manage and query large datasets. [TO BE IMPLEMENTED]
+- **Interactive Dashboard:** Visualizes daily ride trends, rides by dispatching base, and more. 
 - **Streaming & API Rate Limiting:** Example code for integrating Apache Kafka and a token bucket algorithm using Flask.
-
+[TO BE IMPELMENTED WITH INFRASTRUCTURE]
 ## Project Structure
 
